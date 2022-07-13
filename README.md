@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Zhekai Ji, a Javascript Engineer.
-
-[![Years Badge](https://badges.pufler.dev/years/jizhekai)](https://badges.pufler.dev)
+I'm Zhekai Ji, a Software Engineer.
 
 ### Technologies
 These are some of the technologies and tools that I work with:
