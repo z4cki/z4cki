@@ -18,12 +18,12 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   18 hrs 59 mins  ████████████████▓░░░░░░░░   67.24 %
-Text         2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Ruby         2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
-JSON         1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-JavaScript   1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+TypeScript   18 hrs 59 mins  ████████████████░░░░░░░░░   64.16 %
+Ruby         3 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Text         2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
+JSON         1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+JavaScript   1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Markdown     51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
