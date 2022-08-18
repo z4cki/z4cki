@@ -11,9 +11,8 @@ These are some of the technologies and tools that I work with:
 ![Angular](https://img.shields.io/badge/Angular-E23237.svg?logo=angularjs&logoColor=white)
 
 ### Learning Now
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=Kubernetes&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)
 
 <!--START_SECTION:waka-->
 
