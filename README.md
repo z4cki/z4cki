@@ -17,8 +17,8 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   14 hrs 6 mins   ███████████████████░░░░░░   76.23 %
-Other        1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+TypeScript   15 hrs 19 mins  █████████████████▒░░░░░░░   69.86 %
+Other        2 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
 ```
 
 <!--END_SECTION:waka-->
