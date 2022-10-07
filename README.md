@@ -9,10 +9,7 @@ These are some of the technologies and tools that I work with:
 ![Node](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB) 
 ![Angular](https://img.shields.io/badge/Angular-E23237.svg?logo=angularjs&logoColor=white)
-
-### Learning Now
-![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000.svg?logo=ruby-on-rails&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 
 <!--START_SECTION:waka-->
 
