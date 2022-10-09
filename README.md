@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Zhekai Ji, a Software Engineer. A Web3.0 rookie
+I'm Zhekai Ji, a Software Engineer. A Web 3.0 rookie
 
 ### Technologies
 These are some of the technologies and tools that I work with:
