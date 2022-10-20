@@ -14,12 +14,12 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```text
-Solidity     3 hrs 7 mins    ███████████████▓░░░░░░░░░   62.68 %
-Markdown     52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-JavaScript   30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-HTML         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-GraphQL      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+TypeScript   2 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.73 %
+Solidity     2 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   28.01 %
+CSS          1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Markdown     1 hr            ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+JavaScript   33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+HTML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
