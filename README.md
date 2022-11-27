@@ -10,6 +10,7 @@ These are some of the technologies and tools that I work with:
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB) 
 ![Angular](https://img.shields.io/badge/Angular-E23237.svg?logo=angularjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white)
 
 <!--START_SECTION:waka-->
 
