@@ -15,11 +15,11 @@ These are some of the technologies and tools that I work with:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 17 mins  ███████████████████████▒░   93.44 %
-JSON         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   12 hrs          ████████████████████▓░░░░   82.83 %
+JavaScript   1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Markdown     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
