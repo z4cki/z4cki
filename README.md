@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Zack, a Software Engineer and web3 rookie.
+I'm Zack
 
 ### Technologies
 These are some of the technologies and tools that I work with:
