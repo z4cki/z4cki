@@ -5,11 +5,11 @@ I'm Zack
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript           2 hrs 2 mins    ████████████████████████░   95.58 %
-JavaScript           4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-GraphQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+TypeScript           1 hr 45 mins    █████████████████████████   99.81 %
+JavaScript           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Other                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 JSON                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JSON with Comments   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
