@@ -5,8 +5,8 @@ I'm Zack
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   32 mins         ████████████████████░░░░░   79.52 %
-TypeScript   8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.48 %
+JavaScript   43 mins         ████████████████▓░░░░░░░░   66.33 %
+TypeScript   21 mins         ████████▒░░░░░░░░░░░░░░░░   33.67 %
 ```
 
 <!--END_SECTION:waka-->
