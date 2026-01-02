@@ -5,8 +5,7 @@ I'm Zack
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs          ████████████████████▓░░░░   82.05 %
-YAML    0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
