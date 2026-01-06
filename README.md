@@ -5,7 +5,10 @@ I'm Zack
 <!--START_SECTION:waka-->
 
 ```txt
-Text   3 mins          █████████████████████████   100.00 %
+SSH Config   30 mins         ████████████████████▒░░░░   81.24 %
+TypeScript   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Text         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
