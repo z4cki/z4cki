@@ -5,9 +5,7 @@ I'm Zack
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 1 min            ████████████████████████░   96.33 %
-JSON         2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
